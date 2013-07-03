@@ -29,7 +29,7 @@
   # Initialize Sortable Tree
   ############################################
   sortable_tree.nestedSortable
-    items:            'li'
+    items:            'li.js-sortable_item'
     helper:           'clone'
     handle:           'i.handle'
     tolerance:        'pointer'
